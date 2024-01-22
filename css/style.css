@@ -101,4 +101,10 @@ svg {
         width: 680px;
     }
 
+    .section-second-div {
+        display: flex;
+        
+    }
+
+    
 }
