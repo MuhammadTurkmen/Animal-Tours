@@ -2,6 +2,7 @@
 
 body {
     margin: 0;
+    box-sizing: border-box;
 }
 
 header {
@@ -53,13 +54,14 @@ svg {
     margin: 1rem 0;
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 750px) {
     .hide-mobile {
         display: unset;
     }
 
     header {
         text-align: start;
+        padding: 75px auto 55px 82px;
     }
 
     .header-wrapper {
@@ -73,9 +75,11 @@ svg {
 
     .img-wrapper {
         display: flex;
+        gap: 30px;
     }
     .img-div {
         display: flex;
+        gap: 30px;
     }
 
 }
