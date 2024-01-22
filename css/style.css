@@ -118,6 +118,7 @@ svg {
 
     header {
         padding-bottom: 0;
+        padding-top: 139px;
     }
     .header-wrapper {
         max-width: 1100px;
@@ -135,11 +136,15 @@ svg {
         gap: unset;
     }
     
+    .second-img {
+        margin-bottom: -40px;
+    }
     .third-img {
         margin: 0;
         margin-bottom: -50px;
         margin-top: 20px;
     }
+
 
     section {
         width: 1100px;
