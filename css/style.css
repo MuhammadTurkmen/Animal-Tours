@@ -127,6 +127,10 @@ svg {
         align-items: center;
     }
 
+    .header-wrapper p {
+        width: 80%;
+    }
+
     img {
         width: 218px;
         height: 167px;
@@ -134,11 +138,12 @@ svg {
     .img-wrapper {
         display: flex;
         align-items: center;        
-        gap: unset;
+        gap: 30px;
     }
     
     .second-img {
         margin-bottom: -40px;
+        
     }
     .third-img {
         margin: 0;
