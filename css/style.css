@@ -29,3 +29,8 @@ h1 {
 .hide-mobile {
     display: none;
 }
+
+section {
+    text-align: center;
+
+}
