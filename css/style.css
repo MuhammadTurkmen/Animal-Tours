@@ -115,10 +115,19 @@ svg {
 /* Desktop section */
 
 @media only screen and (min-width: 1200px) {
+
+    header {
+        padding-bottom: 0;
+    }
     .header-wrapper {
         max-width: 1100px;
         display: flex;
         align-items: center;
+    }
+
+    .img-wrapper {
+        display: flex;
+        align-items: center;        
     }
 
     .third-img {
