@@ -63,6 +63,7 @@ svg {
         text-align: start;
         padding: unset;
         padding-top: 75px;
+        padding-bottom: 30px;
     }
 
     .header-wrapper {
