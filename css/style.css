@@ -70,7 +70,7 @@ svg {
         margin: 0 auto;
     }
     img {
-        width: unset;
+        width: 195px;
     }
 
     .img-wrapper {
@@ -80,6 +80,10 @@ svg {
     .img-div {
         display: flex;
         gap: 30px;
+    }
+
+    .third-img {
+
     }
     
 }
