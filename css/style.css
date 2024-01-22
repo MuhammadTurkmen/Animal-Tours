@@ -71,6 +71,13 @@ svg {
         max-width: 680px;
         margin: 0 auto;
     }
+    
+    .title {
+        font-size: 50px;
+    }
+
+    
+
     img {
         width: 195px;
         height: 149px;
@@ -87,4 +94,6 @@ svg {
         margin-left: 30px;
     }
     
+
+
 }
