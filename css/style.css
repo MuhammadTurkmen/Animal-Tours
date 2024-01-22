@@ -35,3 +35,7 @@ section {
     width: 305px;
     margin: 0 auto;
 }
+
+svg {
+    margin: 1rem 0;
+}
