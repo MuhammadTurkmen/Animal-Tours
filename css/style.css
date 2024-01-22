@@ -124,4 +124,9 @@ svg {
     .third-img {
         margin: 0;
     }
+
+    section {
+        width: 1100px;
+        display: flex;
+    }
 }
