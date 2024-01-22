@@ -79,13 +79,11 @@ svg {
         display: flex;
         gap: 30px;
     }
-    .img-div {
-        display: flex;
-        gap: 30px;
-    }
+   
 
     .third-img {
-        /* margin-top: 100px; */
+        margin-bottom: -80px;
+        margin-left: 30px;
     }
     
 }
