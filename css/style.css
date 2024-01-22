@@ -31,5 +31,7 @@ h1 {
 }
 
 section {
-    max-width: 305;
+    text-align: center;
+    width: 305px;
+    margin: 0 auto;
 }
