@@ -150,4 +150,8 @@ svg {
         width: 1100px;
         display: flex;
     }
+
+    .section-first-div {
+        width: 277px;
+    }
 }
