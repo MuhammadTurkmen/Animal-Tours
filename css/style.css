@@ -125,13 +125,19 @@ svg {
         align-items: center;
     }
 
+    img {
+        width: 218px;
+        height: 167px;
+    }
     .img-wrapper {
         display: flex;
         align-items: center;        
+        gap: unset;
     }
-
+    
     .third-img {
         margin: 0;
+        margin-bottom: -30px;
     }
 
     section {
