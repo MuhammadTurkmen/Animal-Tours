@@ -13,7 +13,7 @@ header {
 }
 
 .header-wrapper {
-    max-width: 350px;
+    max-width: 305px;
     margin: 0 auto;
 }
 
@@ -31,6 +31,5 @@ h1 {
 }
 
 section {
-    text-align: center;
-
+    max-width: 305;
 }
