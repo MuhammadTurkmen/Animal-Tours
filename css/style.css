@@ -13,7 +13,8 @@ header {
 }
 
 .header-wrapper {
-    max-width: 500px;
+    max-width: 350px;
+    margin: 0 auto;
 }
 
 h1 {
