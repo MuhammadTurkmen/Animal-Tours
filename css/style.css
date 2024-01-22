@@ -78,7 +78,7 @@ svg {
 
     .header-wrapper p {
         font-size: 24px;
-        width: 70%;
+        width: 67%;
     }
 
     img {
@@ -95,6 +95,11 @@ svg {
     .third-img {
         margin-bottom: -80px;
         margin-left: 30px;
+    }
+
+    section {
+        max-width: 680px;
+        
     }
     
 
