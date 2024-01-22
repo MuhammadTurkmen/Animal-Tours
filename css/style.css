@@ -58,8 +58,20 @@ svg {
         display: unset;
     }
 
+    header {
+        text-align: start;
+    }
+
     .header-wrapper {
+        
         max-width: 680px;
         margin: 0 auto;
+    }
+    img {
+        width: unset;
+    }
+
+    .img-wrapper {
+        display: flex;
     }
 }
