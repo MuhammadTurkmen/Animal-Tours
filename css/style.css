@@ -103,7 +103,11 @@ svg {
 
     .section-second-div {
         display: flex;
-        
+        justify-content: space-between;
+    }
+
+    .section-second-div div {
+        width: 250px;
     }
 
     
