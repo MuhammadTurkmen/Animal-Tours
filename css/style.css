@@ -53,7 +53,7 @@ svg {
     margin: 1rem 0;
 }
 
-@media only screen and (min-width: 650px) {
+@media only screen and (min-width: 700px) {
     .hide-mobile {
         display: unset;
     }
@@ -74,4 +74,8 @@ svg {
     .img-wrapper {
         display: flex;
     }
+    .img-div {
+        display: flex;
+    }
+
 }
