@@ -61,7 +61,8 @@ svg {
 
     header {
         text-align: start;
-        padding: 75px auto 55px 82px;
+        padding: unset;
+        padding-top: 75px;
     }
 
     .header-wrapper {
@@ -84,7 +85,7 @@ svg {
     }
 
     .third-img {
-        margin-bottom: -100px;
+        /* margin-top: 100px; */
     }
     
 }
