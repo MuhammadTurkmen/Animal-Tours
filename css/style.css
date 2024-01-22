@@ -44,7 +44,6 @@ p {
 
 section {
     padding: 83px 0;
-
     text-align: center;
     width: 305px;
     margin: 0 auto;
@@ -98,10 +97,8 @@ svg {
     }
 
     section {
-        max-width: 680px;
-        
+        text-align: left;
+        width: 680px;
     }
-    
-
 
 }
