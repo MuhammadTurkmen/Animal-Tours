@@ -26,6 +26,10 @@ h1 {
     margin: 0;
 }
 
+p {
+    font-size: 18px;
+    
+}
 .title {
     font-size: 36px;
     margin-bottom: 14px;
