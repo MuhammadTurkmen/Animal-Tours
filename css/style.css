@@ -131,7 +131,6 @@ svg {
         width: 80%;
     } 
  
-
     .title-div {
         margin-top: 30px; 
     }
@@ -139,7 +138,7 @@ svg {
     img {  
         width: 218px;
         height: 167px;
-    }
+    } 
     .img-wrapper {
         display: flex;
         align-items: center;        
