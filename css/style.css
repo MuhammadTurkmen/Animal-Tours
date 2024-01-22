@@ -156,6 +156,7 @@ svg {
         width: 1100px;
         display: flex;
         gap: 100px;
+        
     }
 
     section h1 {
@@ -172,5 +173,9 @@ svg {
     }
     .section-second-div {
         gap: 100px;
+    }
+
+    .section-second-div div {
+        width: 300px;
     }
 }
