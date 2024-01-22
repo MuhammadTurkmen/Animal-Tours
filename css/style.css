@@ -76,7 +76,10 @@ svg {
         font-size: 50px;
     }
 
-    
+    .header-wrapper p {
+        font-size: 24px;
+        width: 70%;
+    }
 
     img {
         width: 195px;
