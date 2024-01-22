@@ -53,6 +53,8 @@ svg {
     margin: 1rem 0;
 }
 
+/* Tablet section */
+
 @media only screen and (min-width: 750px) {
     .hide-mobile {
         display: unset;
@@ -90,7 +92,6 @@ svg {
         gap: 30px;
     }
    
-
     .third-img {
         margin-bottom: -80px;
         margin-left: 30px;
@@ -108,7 +109,15 @@ svg {
 
     .section-second-div div {
         width: 250px;
-    }
+    }    
+}
 
-    
+/* Desktop section */
+
+@media only screen and (min-width: 1200px) {
+    .header-wrapper {
+        max-width: 1100px;
+        display: flex;
+        align-items: center;
+    }
 }
