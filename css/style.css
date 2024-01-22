@@ -120,4 +120,8 @@ svg {
         display: flex;
         align-items: center;
     }
+
+    .third-img {
+        margin: 0;
+    }
 }
