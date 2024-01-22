@@ -54,5 +54,12 @@ svg {
 }
 
 @media only screen and (min-width: 650px) {
-    
+    .hide-mobile {
+        display: unset;
+    }
+
+    .header-wrapper {
+        max-width: 680px;
+        margin: 0 auto;
+    }
 }
