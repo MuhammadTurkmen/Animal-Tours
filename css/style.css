@@ -26,11 +26,18 @@ h1 {
     margin: 0;
 }
 
+.title {
+    margin: 0;
+
+}
+
 .hide-mobile {
     display: none;
 }
 
 section {
+    padding: 83px 0;
+
     text-align: center;
     width: 305px;
     margin: 0 auto;
