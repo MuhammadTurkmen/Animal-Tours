@@ -1,3 +1,7 @@
 body {
     margin: 0;
 }
+
+header {
+    background-color: linear-gradient(120deg, #FFEBCD 8.57%, #FF8B72 91.34%);;
+}
