@@ -71,6 +71,7 @@ svg {
     }
     img {
         width: 195px;
+        height: 149px;
     }
 
     .img-wrapper {
@@ -83,7 +84,7 @@ svg {
     }
 
     .third-img {
-
+        margin-bottom: -100px;
     }
     
 }
