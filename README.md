@@ -10,3 +10,5 @@
 
 ![image](https://github.com/MuhammadTurkmen/Animal-Tours/assets/142389953/a2f2090e-9749-4d9a-9074-b4d872ca4bf7)
 
+# Desktop 
+![image](https://github.com/MuhammadTurkmen/Animal-Tours/assets/142389953/e1a69436-28b5-4734-a8eb-c7b45eb30df0)
