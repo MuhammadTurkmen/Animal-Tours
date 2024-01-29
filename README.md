@@ -7,3 +7,6 @@
 
 ## Tablet 
 ![image](https://github.com/MuhammadTurkmen/Animal-Tours/assets/142389953/4087fa48-1a80-4afb-9722-1fcf3a11dc51)
+
+![image](https://github.com/MuhammadTurkmen/Animal-Tours/assets/142389953/a2f2090e-9749-4d9a-9074-b4d872ca4bf7)
+
